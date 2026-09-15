@@ -19,7 +19,7 @@ A Python and pandas workflow was used to prepare and analyze the data:
 Mobile Response accounted for 79.9% of recorded requests, compared with 20.1% for Enforcement. This highlights a substantial difference in service-request volume between the two operational areas and provides a starting point for examining differences in operational demand.
 
 ### 2. Wildlife-related requests are a major driver of service demand
-"Injured Wildlife" and "Cadaver - Wildlife" were among the highest-volume service-request types in the dataset. Breaking this down by operational area reveals that wildlife management almost exclusively drives Mobile Response demand, whereas Enforcement demand is driven by noise complaints and off-leash incidents.
+"Injured Wildlife" and "Cadaver - Wildlife" were among the highest-volume service-request types in the dataset. Breaking this down by operational area reveals that wildlife management almost exclusively drives Mobile Response demand, whereas Enforcement demand is driven by noise complaints and animal-to-human incidents.
 
 ![Mobile vs Enforcement](outputs/figures/mobile_vs_enforcement_chart.png)
 
